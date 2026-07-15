@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:2563eb,100:0ea5e9&height=220&section=header&text=Anjul%20Chauhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=c4b5fd&strokeWidth=2&desc=Full%20Stack%20Dev%20%20%C2%B7%20%20GenAI%20Engineer%20%20%C2%B7%20%20Backend%20Architect&descAlignY=62&descSize=14&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7c3aed,50:2563eb,100:0ea5e9&height=220&section=header&text=Anjul%20Chauhan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=c4b5fd&strokeWidth=2&desc=Software%20Engineer%20%20%C2%B7%20%20Backend%20%26%20GenAI%20Development&descAlignY=62&descSize=14&descColor=a78bfa" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9C%A6+GenAI+%26+Backend+Intern+%40+CybHop+Tech+LLP;%E2%9A%A1+FastAPI+%2B+MongoDB+%2B+Google+Gemini;%F0%9F%9A%80+Full+Stack+Dev+%7C+Open+to+Work;%F0%9F%8E%A8+Award-winning+Painter+%26+Dancer+on+the+side!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=%E2%9C%A6+GenAI+%26+Backend+Intern+%40+CybHop+Tech+LLP;%E2%9A%A1+FastAPI+%2B+LlamaIndex+%2B+Qdrant+%2B+Groq;%F0%9F%A4%96+RAG+Pipelines+%7C+LangGraph+%7C+CrewAI;%F0%9F%9A%80+Backend+%26+GenAI+Engineer+%7C+Open+to+Work)](https://git.io/typing-svg)
 
 <br/>
 
@@ -24,18 +24,19 @@
 ```python
 class AnjulChauhan:
     def __init__(self):
-        self.role      = "Full Stack Dev · GenAI Engineer · Backend Architect"
-        self.stack     = ["FastAPI", "React", "MongoDB", "Google Gemini"]
-        self.current   = "GenAI & Backend Intern @ CybHop Tech LLP"
-        self.edu       = "B.E. CS — Chandigarh University 2025"
+        self.role      = "Software Engineer | Backend & GenAI Development"
+        self.stack     = ["FastAPI", "LlamaIndex", "Qdrant", "Groq", "MongoDB", "React"]
+        self.current   = "GenAI & Backend Software Intern @ CybHop Tech LLP"
+        self.edu       = "B.E. CS — Chandigarh University, 2025"
         self.location  = "Haridwar, Uttarakhand, India 🇮🇳"
-        self.fun_fact  = "Award-winning painter & dancer 🎨💃"
+        self.open_to   = "Remote · Hybrid · PAN India opportunities"
 
     def building_now(self):
         return {
-            "platform" : "AI-powered education backend @ CybHop",
-            "genai"    : "Google Gemini API → personalized user profiling",
-            "security" : "JWT + RBAC + PBKDF2-SHA256 hashing",
+            "rag"      : "RAG pipelines with LlamaIndex + Qdrant + Groq",
+            "agents"   : "LangGraph & CrewAI multi-agent workflows",
+            "backend"  : "FastAPI services with JWT + RBAC",
+            "deploy"   : "Hugging Face Spaces (Gradio-based GenAI apps)",
         }
 
 # ✦ Let's build something amazing together 🚀
@@ -50,35 +51,32 @@ class AnjulChauhan:
 **Backend & APIs**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=flat-square&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Auth-7c3aed?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC-6d28d9?style=flat-square&logoColor=white)
 
+**GenAI & Agents**
+
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1a1a2e?style=flat-square&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-7c3aed?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**GenAI & Databases**
+**Databases & Tools**
 
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0f2027?style=flat-square&logo=mongodb&logoColor=4EA94B)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-
-**Languages & Tools**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </div>
 
@@ -89,14 +87,14 @@ class AnjulChauhan:
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │  🟢 ACTIVE   GenAI & Backend Software Intern                    │
-│              CybHop Tech LLP  ·  Aug 2025 – Present             │
+│              CybHop Tech LLP                                    │
 ├─────────────────────────────────────────────────────────────────┤
-│  ▸ Built FastAPI + MongoDB backends for AI-powered edu platform  │
-│  ▸ Integrated Google Gemini API for user learning profiles       │
-│  ▸ Implemented JWT Auth · RBAC · PBKDF2-SHA256 password hashing │
-│  ▸ Designed survey management APIs with Pydantic validation      │
+│  ▸ Built FastAPI + LlamaIndex + Qdrant + Groq RAG pipelines      │
+│  ▸ Designed a FastAPI + MongoDB RBAC system (auth + data svcs)  │
+│  ▸ Implemented JWT auth, bcrypt hashing, role-based endpoints   │
+│  ▸ Deployed GenAI apps to Hugging Face Spaces                   │
 ├─────────────────────────────────────────────────────────────────┤
-│  Stack: FastAPI · MongoDB · Gemini API · JWT · RBAC · Pydantic  │
+│  Stack: FastAPI · LlamaIndex · Qdrant · Groq · MongoDB · React  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -108,14 +106,40 @@ class AnjulChauhan:
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Manoi — Educational Platform
-![Live](https://img.shields.io/badge/●_Live-22c55e?style=flat-square) ![Active](https://img.shields.io/badge/Active-7c3aed?style=flat-square)
+### 🎫 IT Support RAG Console
+![Active](https://img.shields.io/badge/Active-22c55e?style=flat-square)
 
-Full-stack learning platform with JWT auth, role-based access control, course progress tracking, and user dashboards.
+A production-style RAG system for IT support: FastAPI backend, LlamaIndex for retrieval orchestration, Qdrant (embedded mode) for vector search, and Groq for fast LLM inference — with a React + Vite + Tailwind "ops console" frontend.
 
-`React` `Tailwind` `JWT` `RBAC` `Netlify`
+`FastAPI` `LlamaIndex` `Qdrant` `Groq` `React`
 
-[↗ Live Demo](https://manoi.netlify.app) · [⌥ Code](https://github.com/anjulchauhan24)
+[⌥ Code](https://github.com/anjulchauhan24)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 RBAC Access System
+![Backend](https://img.shields.io/badge/Backend-7c3aed?style=flat-square)
+
+Two-microservice RBAC platform (auth + data) with JWT authentication, bcrypt hashing, role-scoped endpoints for manager/salesperson/HR roles, a CSV-to-MongoDB pipeline, and an AI-powered data quality guard on uploads.
+
+`FastAPI` `MongoDB` `JWT` `RBAC` `React`
+
+[⌥ Code](https://github.com/anjulchauhan24)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 Resume Lens
+![Live](https://img.shields.io/badge/●_Live-22c55e?style=flat-square)
+
+Semantic skill-matching app between resumes and job descriptions, using Qwen3-0.6B + MiniLM embeddings with a tuned similarity threshold, deployed on Hugging Face Spaces.
+
+`Qwen3` `Sentence Transformers` `Gradio` `Hugging Face`
+
+[↗ Live Demo](https://huggingface.co/spaces) · [⌥ Code](https://github.com/anjulchauhan24)
 
 </td>
 <td width="50%" valign="top">
@@ -162,10 +186,10 @@ RTSP · HLS · HTTP · YouTube streams with real-time playback, drag-and-drop ov
 
 ```
 01  IBM Full Stack Software Developer Professional      Coursera
-02  HTML, CSS & JavaScript for Web Developers          Coursera
-03  Internet of Things ✦ ELITE BADGE 🥇               IIT Kharagpur (NPTEL)
-04  Discrete Mathematics                               IIT Ropar (NPTEL)
-05  Web Development Internship                         Bharat Intern
+02  HTML, CSS & JavaScript for Web Developers            Coursera
+03  Internet of Things ✦ ELITE BADGE 🥇                 IIT Kharagpur (NPTEL)
+04  Discrete Mathematics                                 IIT Ropar (NPTEL)
+05  Web Development Internship                           Bharat Intern
 ```
 
 ---
@@ -175,11 +199,10 @@ RTSP · HLS · HTTP · YouTube streams with real-time playback, drag-and-drop ov
 ```markdown
 ## currently focused on
 
-🔨  Scaling GenAI backends with FastAPI + Google Gemini
-🌱  Deepening LLM integration & prompt engineering skills
-🎯  Open to Full Stack / Backend / GenAI roles
+🔨  Shipping production RAG pipelines with LlamaIndex + Qdrant + Groq
+🌱  Exploring Corrective RAG and multi-agent workflows (LangGraph / CrewAI)
+🎯  Open to Backend / GenAI Engineer roles — remote, hybrid, or PAN India
 🤝  Open to open-source collaborations
-🎨  Fun fact: award-winning painter & dancer — creativity fuels code
 ```
 
 ---
